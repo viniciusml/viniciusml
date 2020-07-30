@@ -1,4 +1,5 @@
 ![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=viniciusml&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusml&layout=compact)](https://github.com/viniciusml/github-readme-stats)
 
 ### Hi there 👋
 
