@@ -1,5 +1,11 @@
-![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=viniciusml&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusml&layout=compact)](https://github.com/viniciusml/github-readme-stats)
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusml&hide=html&layout=compact&theme=cobalt" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusml&theme=cobalt" /></td>
+  </tr>    
+</table>
+</center>
 
 ### Hi there 👋
 
